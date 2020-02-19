@@ -93,7 +93,7 @@
     "htmllint-cli": "^0.0.6",
     "jsunitsaucelabs": "^1.2.0",
     "node-sass": "^4.5.3",
-    "nodemon": "^1.11.0",
+    "nodemon": "^1.14.11",
     "npm-run-all": "^4.0.2",
     "phantomjs-prebuilt": "^2.1.14",
     "popper.js": "^1.12.5",
